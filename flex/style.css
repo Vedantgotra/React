@@ -1,0 +1,17 @@
+body{
+    background: pink;
+}
+#parent{
+    display: flex;
+   background: red;
+   width: 100vw;
+   justify-content: flex-end;
+   align-items:flex-end;
+   height: 100vh;
+}
+.child{
+    background: yellow;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}

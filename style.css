@@ -1,0 +1,13 @@
+h1{
+    color: aqua;
+    background: rgb(254, 12, 133);
+    display: inline;
+}
+div{
+    color: red
+}
+.blue{
+    color: rgb(41, 41, 196);
+}
+#hello{
+    font-size: 30px;
